@@ -1,0 +1,22 @@
+.all{
+  margin-top: 50px;
+}
+  .float-left{
+    float: left;
+    margin-left: 45px;
+  }
+  .float-right{
+    float: right;
+    margin-right: 45px;
+  }
+  h1.giant{
+    padding: 0;
+    display: inline;
+    font-size: 110px;
+  }
+
+  p.quote{
+    margin-top: 15px;
+    display: inline;
+    font-size: 18px;
+  }
